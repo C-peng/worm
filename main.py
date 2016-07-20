@@ -20,8 +20,8 @@ URL_PHOTO_ALBUM_END = '&sk=photos'
 DOWNLOAD_PATH = 'D:\workspace\crawlerData\\facebook\\'
 
 
-USER_ACCOUNT = '277907260@qq.com'
-USER_PASSWORD = 'a12jk12jk'
+USER_ACCOUNT = '**********'
+USER_PASSWORD = '*********'
 URL_LOGIN = 'https://www.facebook.com/login.php?login_attempt=1&lwv=100'
 LOCAL_PATH = 'D:\workspace\Python\PythonCrawler\PythonCrawler\\facebookCrawler\\'
 COOKIES_FILE = LOCAL_PATH + 'cookies'
