@@ -17,7 +17,7 @@ import thread
 USER_ID = 100010625445733
 URL_PHOTO_ALBUM_FRONT = 'https://www.facebook.com/profile.php?id='
 URL_PHOTO_ALBUM_END = '&sk=photos'
-DOWNLOAD_PATH = 'D:\workspace\crawlerData\\facebook\\'
+DOWNLOAD_PATH = '*************'
 
 
 USER_ACCOUNT = '**********'
